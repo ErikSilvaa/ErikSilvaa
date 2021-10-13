@@ -1,4 +1,4 @@
-## Olá! me chamo Erik Henrique e sou estudante de programação e tecnologia💻
+## Olá! me chamo Erik Henrique e sou estudante de programação e tecnologia!💻
 
 <div align="center">
   <a href="https://github.com/ErikSilvaa">
