@@ -1,5 +1,6 @@
-## Olá! me chamo Erik Henrique e sou estudante de programação e tecnologia!💻
-
+# Quem sou eu?
+### Olá! me chamo Erik Henrique, tenho 17 anos e sou estudante de programação e tecnologia. Atualmente moro em São Paulo - Guarulhos e me interessei na área de TI pela facilidade de poder estudar e trabalhar de onde eu estiver e também porque é uma área muito importante, na qual eu sempre me interessei desde muito novo.
+##
 <div align="center">
   <a href="https://github.com/ErikSilvaa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eriksilvaa&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
